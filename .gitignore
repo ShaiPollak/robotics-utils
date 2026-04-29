@@ -1,0 +1,43 @@
+### --- OS Generated Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### --- Environment & Secrets (IMPORTANT!) ---
+.env
+*.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+### --- Common Folders & Dependencies ---
+node_modules/
+vendor/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+### --- Build & Output ---
+dist/
+build/
+out/
+target/
+*.exe
+*.dll
+*.so
+*.log
+
+### --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
